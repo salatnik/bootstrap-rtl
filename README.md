@@ -21,12 +21,12 @@ Or load it from CDN:
 
 ```html
 <!-- Load Bootstrap RTL theme from CDNJS -->
-<link rel="stylesheet" href="//cdn.rawgit.com/morteza/bootstrap-rtl/master/dist/css/bootstrap-rtl.min.css">
+<link rel="stylesheet" href="//cdn.rawgit.com/salatnik/bootstrap-rtl/master/dist/css/bootstrap-rtl.min.css">
 ```
 
 ## Quick start
 
-To get started, **[download latest release](https://github.com/morteza/bootstrap-rtl/releases/latest)**. Check `examples/` directory for more. It's just like Bootstrap 3, nothing special. You can also install it via bower:
+To get started, **[download latest release](https://github.com/salatnik/bootstrap-rtl/releases/latest)**. Check `examples/` directory for more. It's just like Bootstrap 3, nothing special. You can also install it via bower:
 
 * Run `bower install bootstrap-rtl` and latest version will be installed under *bower_components/bootstrap-rtl/* directory.
 
@@ -46,7 +46,7 @@ Bootstrap RTL uses [Grunt](http://gruntjs.com/) for working with the framework. 
 
 Contributors to Bootstrap RTL must agree the license by signing on the bottom of the `CONTRIBUTORS.md` file. To contribute:
 
-- [fork the bootstrap-rtl repository](https://github.com/morteza/bootstrap-rtl/fork).
+- [fork the bootstrap-rtl repository](https://github.com/salatnik/bootstrap-rtl/fork).
 - make your changes
 - *first time contributors*: Sign `CONTRIBUTORS.md` by adding your github username, full name, email address, and first contribution date. As follows:
     `YYYY/MM/DD, Github Username, Full Name, Email Address`
@@ -59,7 +59,7 @@ Contributors to Bootstrap RTL must agree the license by signing on the bottom of
 
 ### Feature requests, and bug fixes
 
-If you want a feature or a bug fixed, [report it via project's issues tracker](https://github.com/morteza/bootstrap-rtl/issues). However, if it's something you can fix yourself, *fork* the project, *do* whatever it takes to resolve it, and finally submit a *pull* request. I will personally thank you, and add your name to the list of contributors.
+If you want a feature or a bug fixed, [report it via project's issues tracker](https://github.com/salatnik/bootstrap-rtl/issues). However, if it's something you can fix yourself, *fork* the project, *do* whatever it takes to resolve it, and finally submit a *pull* request. I will personally thank you, and add your name to the list of contributors.
 
 ## Author
 
@@ -67,6 +67,9 @@ If you want a feature or a bug fixed, [report it via project's issues tracker](h
 
 + [http://github.com/morteza](http://github.com/morteza)
 
+**Simon Kamenetskiy**
+
++ [https://github.com/skamenetskiy](https://github.com/skamenetskiy)
 
 ## License
 

@@ -16,7 +16,7 @@
     "hebrew",
     "theme"
   ],
-  "dependencies" : {
+  "dependencies": {
     "bootstrap": "^3.3.4"
   },
   "devDependencies": {
@@ -28,13 +28,15 @@
     "node": "~0.10.1"
   },
   "repository": {
-      "type": "git",
-    "url": "https://github.com/morteza/bootstrap-rtl.git"
+    "type": "git",
+    "url": "https://github.com/salatnik/bootstrap-rtl.git"
   },
   "bugs": {
-      "url": "https://github.com/morteza/bootstrap-rtl/issues"
+    "url": "https://github.com/salatnik/bootstrap-rtl/issues"
   },
-  "licenses": [{
-    "type": "Unlicensed Public Domain"
-  }]
+  "licenses": [
+    {
+      "type": "Unlicensed Public Domain"
+    }
+  ]
 }
