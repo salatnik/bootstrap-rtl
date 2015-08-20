@@ -1,5 +1,7 @@
 # Bootstrap 3 RTL Theme
 
+[![Build Status](https://travis-ci.org/salatnik/bootstrap-rtl.svg)](https://travis-ci.org/salatnik/bootstrap-rtl)
+
 ---
 
 ***Note: Hopefully, they will add rtl support to the next major release of bootstrap, so this project will be absolete. However, it's going to be updated for the next 3.x releases.***
