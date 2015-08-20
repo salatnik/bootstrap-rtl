@@ -1,6 +1,8 @@
 # Bootstrap 3 RTL Theme
 
 [![Build Status](https://travis-ci.org/salatnik/bootstrap-rtl.svg)](https://travis-ci.org/salatnik/bootstrap-rtl)
+[![Dependencies Status](https://david-dm.org/salatnik/bootstrap-rtl.svg)](https://david-dm.org/salatnik/bootstrap-rtl)
+
 
 ---
 
